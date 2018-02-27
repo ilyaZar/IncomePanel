@@ -18,7 +18,7 @@ source("HelperSamplers.R")
 #
 #
 #
-#
+# Testing new git comments
 set.seed(123)
 n      <- 100000
 kT     <- 10
